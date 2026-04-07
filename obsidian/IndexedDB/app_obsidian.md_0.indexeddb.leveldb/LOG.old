@@ -1,0 +1,7 @@
+2026/01/15-00:55:17.548 6430 Reusing MANIFEST /Users/jgseike/Library/Application Support/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/15-00:55:17.549 6430 Recovering log #3
+2026/01/15-00:55:17.556 6430 Reusing old log /Users/jgseike/Library/Application Support/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2026/04/06-23:52:18.993 6432 Level-0 table #5: started
+2026/04/06-23:52:19.013 6432 Level-0 table #5: 2091062 bytes OK
+2026/04/06-23:52:19.021 6432 Delete type=0 #3
+2026/04/06-23:52:19.022 6432 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

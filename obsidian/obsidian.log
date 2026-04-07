@@ -1,0 +1,720 @@
+2026-01-11 21:30:55 Loading main app package /Applications/Obsidian.app/Contents/Resources/obsidian.asar
+2026-01-11 21:30:55 Checking for update using Github
+2026-01-11 21:30:56 Success.
+2026-01-11 21:30:56 Latest version is 1.10.6
+2026-01-11 21:30:56 App is up to date.
+2026-01-11 22:31:11 Checking for update using Github
+2026-01-11 22:31:12 Success.
+2026-01-11 22:31:12 Latest version is 1.10.6
+2026-01-11 22:31:12 App is up to date.
+2026-01-11 23:32:14 Checking for update using Github
+2026-01-11 23:32:14 Success.
+2026-01-11 23:32:14 Latest version is 1.10.6
+2026-01-11 23:32:14 App is up to date.
+2026-01-12 00:38:46 Checking for update using Github
+2026-01-12 00:38:46 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-01-12 00:38:46 Checking for update using obsidian.md
+2026-01-12 00:38:46 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-01-12 00:49:49 Loading main app package /Applications/Obsidian.app/Contents/Resources/obsidian.asar
+2026-01-12 00:49:49 Checking for update using Github
+2026-01-12 00:49:49 Success.
+2026-01-12 00:49:49 Latest version is 1.10.6
+2026-01-12 00:49:49 App is up to date.
+2026-01-12 01:55:16 Checking for update using Github
+2026-01-12 01:55:16 Success.
+2026-01-12 01:55:16 Latest version is 1.10.6
+2026-01-12 01:55:16 App is up to date.
+2026-01-12 02:55:16 Checking for update using Github
+2026-01-12 02:55:16 Success.
+2026-01-12 02:55:16 Latest version is 1.10.6
+2026-01-12 02:55:16 App is up to date.
+2026-01-12 04:05:01 Checking for update using Github
+2026-01-12 04:05:01 Success.
+2026-01-12 04:05:01 Latest version is 1.10.6
+2026-01-12 04:05:01 App is up to date.
+2026-01-12 05:07:13 Checking for update using Github
+2026-01-12 05:07:14 Success.
+2026-01-12 05:07:14 Latest version is 1.10.6
+2026-01-12 05:07:14 App is up to date.
+2026-01-12 06:09:26 Checking for update using Github
+2026-01-12 06:09:27 Success.
+2026-01-12 06:09:27 Latest version is 1.10.6
+2026-01-12 06:09:27 App is up to date.
+2026-01-12 07:10:17 Checking for update using Github
+2026-01-12 07:10:17 Success.
+2026-01-12 07:10:17 Latest version is 1.10.6
+2026-01-12 07:10:17 App is up to date.
+2026-01-12 08:15:32 Checking for update using Github
+2026-01-12 08:15:32 Success.
+2026-01-12 08:15:32 Latest version is 1.10.6
+2026-01-12 08:15:32 App is up to date.
+2026-01-12 09:16:51 Checking for update using Github
+2026-01-12 09:16:51 Success.
+2026-01-12 09:16:51 Latest version is 1.10.6
+2026-01-12 09:16:51 App is up to date.
+2026-01-12 10:21:25 Checking for update using Github
+2026-01-12 10:21:25 Success.
+2026-01-12 10:21:25 Latest version is 1.10.6
+2026-01-12 10:21:25 App is up to date.
+2026-01-12 11:26:09 Checking for update using Github
+2026-01-12 11:26:09 Success.
+2026-01-12 11:26:09 Latest version is 1.10.6
+2026-01-12 11:26:09 App is up to date.
+2026-01-12 12:30:26 Checking for update using Github
+2026-01-12 12:30:26 Success.
+2026-01-12 12:30:26 Latest version is 1.10.6
+2026-01-12 12:30:26 App is up to date.
+2026-01-12 13:41:48 Checking for update using Github
+2026-01-12 13:41:49 Success.
+2026-01-12 13:41:49 Latest version is 1.10.6
+2026-01-12 13:41:49 App is up to date.
+2026-01-12 14:53:06 Checking for update using Github
+2026-01-12 14:53:06 Success.
+2026-01-12 14:53:06 Latest version is 1.10.6
+2026-01-12 14:53:06 App is up to date.
+2026-01-12 15:55:03 Checking for update using Github
+2026-01-12 15:55:03 Success.
+2026-01-12 15:55:03 Latest version is 1.11.4
+2026-01-12 15:55:03 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.4/obsidian-1.11.4.asar.gz
+2026-01-12 15:55:04 Verifying hash & signature. Size= 8769455
+2026-01-12 15:55:04 Saving file
+2026-01-12 15:55:04 Update complete.
+2026-01-13 00:17:15 Checking for update using Github
+2026-01-13 00:17:15 Success.
+2026-01-13 00:17:15 Latest version is 1.11.4
+2026-01-13 00:17:15 An update is already downloaded.
+2026-01-13 03:04:13 Checking for update using Github
+2026-01-13 03:04:13 Success.
+2026-01-13 03:04:13 Latest version is 1.11.4
+2026-01-13 03:04:13 An update is already downloaded.
+2026-01-13 17:51:57 Checking for update using Github
+2026-01-13 17:51:57 Success.
+2026-01-13 17:51:57 Latest version is 1.11.4
+2026-01-13 17:51:57 An update is already downloaded.
+2026-01-14 00:30:30 Checking for update using Github
+2026-01-14 00:30:30 Success.
+2026-01-14 00:30:30 Latest version is 1.11.4
+2026-01-14 00:30:30 An update is already downloaded.
+2026-01-14 01:30:30 Checking for update using Github
+2026-01-14 01:30:30 Success.
+2026-01-14 01:30:30 Latest version is 1.11.4
+2026-01-14 01:30:30 An update is already downloaded.
+2026-01-14 02:50:22 Checking for update using Github
+2026-01-14 02:50:22 Success.
+2026-01-14 02:50:22 Latest version is 1.11.4
+2026-01-14 02:50:22 An update is already downloaded.
+2026-01-14 03:50:22 Checking for update using Github
+2026-01-14 03:50:22 Success.
+2026-01-14 03:50:22 Latest version is 1.11.4
+2026-01-14 03:50:22 An update is already downloaded.
+2026-01-14 06:00:05 Checking for update using Github
+2026-01-15 03:55:16 Loading updated app package /Users/jgseike/Library/Application Support/obsidian/obsidian-1.11.4.asar
+2026-01-15 03:55:16 Checking for update using Github
+2026-01-15 03:55:17 Success.
+2026-01-15 03:55:17 Latest version is 1.11.4
+2026-01-15 03:55:17 App is up to date.
+2026-01-15 05:03:15 Checking for update using Github
+2026-01-15 05:03:16 Success.
+2026-01-15 05:03:16 Latest version is 1.11.4
+2026-01-15 05:03:16 App is up to date.
+2026-01-15 06:04:24 Checking for update using Github
+2026-01-15 06:04:24 Success.
+2026-01-15 06:04:24 Latest version is 1.11.4
+2026-01-15 06:04:24 App is up to date.
+2026-01-15 07:12:22 Checking for update using Github
+2026-01-15 07:12:23 Success.
+2026-01-15 07:12:23 Latest version is 1.11.4
+2026-01-15 07:12:23 App is up to date.
+2026-01-15 08:33:45 Checking for update using Github
+2026-01-15 08:33:45 Success.
+2026-01-15 08:33:45 Latest version is 1.11.4
+2026-01-15 08:33:45 App is up to date.
+2026-01-15 09:51:29 Checking for update using Github
+2026-01-15 09:51:29 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-15 09:51:29 Checking for update using obsidian.md
+2026-01-15 09:51:30 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-15 10:56:50 Checking for update using Github
+2026-01-15 10:56:50 Success.
+2026-01-15 10:56:50 Latest version is 1.11.4
+2026-01-15 10:56:50 App is up to date.
+2026-01-15 12:03:06 Checking for update using Github
+2026-01-15 12:03:06 Success.
+2026-01-15 12:03:06 Latest version is 1.11.4
+2026-01-15 12:03:06 App is up to date.
+2026-01-15 13:04:02 Checking for update using Github
+2026-01-15 13:04:02 Success.
+2026-01-15 13:04:02 Latest version is 1.11.4
+2026-01-15 13:04:02 App is up to date.
+2026-01-15 14:05:01 Checking for update using Github
+2026-01-15 14:05:02 Success.
+2026-01-15 14:05:02 Latest version is 1.11.4
+2026-01-15 14:05:02 App is up to date.
+2026-01-15 15:06:01 Checking for update using Github
+2026-01-15 15:06:02 Success.
+2026-01-15 15:06:02 Latest version is 1.11.4
+2026-01-15 15:06:02 App is up to date.
+2026-01-15 16:07:00 Checking for update using Github
+2026-01-15 16:07:01 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2026-01-15 16:07:01 Checking for update using obsidian.md
+2026-01-15 16:07:01 Failed to check for update using obsidian.md (net::ERR_NAME_NOT_RESOLVED)
+2026-01-15 17:08:04 Checking for update using Github
+2026-01-15 17:08:05 Success.
+2026-01-15 17:08:05 Latest version is 1.11.4
+2026-01-15 17:08:05 App is up to date.
+2026-01-15 18:09:02 Checking for update using Github
+2026-01-15 18:09:02 Success.
+2026-01-15 18:09:02 Latest version is 1.11.4
+2026-01-15 18:09:02 App is up to date.
+2026-01-15 19:10:00 Checking for update using Github
+2026-01-15 19:10:01 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-15 19:10:01 Checking for update using obsidian.md
+2026-01-15 19:10:02 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-15 20:11:07 Checking for update using Github
+2026-01-15 20:14:42 Success.
+2026-01-15 20:14:42 Latest version is 1.11.4
+2026-01-15 20:14:42 App is up to date.
+2026-01-15 21:12:07 Checking for update using Github
+2026-01-15 21:12:07 Success.
+2026-01-15 21:12:07 Latest version is 1.11.4
+2026-01-15 21:12:07 App is up to date.
+2026-01-15 22:13:04 Checking for update using Github
+2026-01-15 22:13:04 Success.
+2026-01-15 22:13:04 Latest version is 1.11.4
+2026-01-15 22:13:04 App is up to date.
+2026-01-15 23:14:07 Checking for update using Github
+2026-01-15 23:14:07 Success.
+2026-01-15 23:14:07 Latest version is 1.11.4
+2026-01-15 23:14:07 App is up to date.
+2026-01-16 00:15:07 Checking for update using Github
+2026-01-16 00:15:07 Success.
+2026-01-16 00:15:07 Latest version is 1.11.4
+2026-01-16 00:15:07 App is up to date.
+2026-01-16 01:16:02 Checking for update using Github
+2026-01-16 01:16:02 Success.
+2026-01-16 01:16:02 Latest version is 1.11.4
+2026-01-16 01:16:02 App is up to date.
+2026-01-16 02:22:43 Checking for update using Github
+2026-01-16 02:22:43 Success.
+2026-01-16 02:22:43 Latest version is 1.11.4
+2026-01-16 02:22:43 App is up to date.
+2026-01-16 03:24:02 Checking for update using Github
+2026-01-16 03:24:02 Success.
+2026-01-16 03:24:02 Latest version is 1.11.4
+2026-01-16 03:24:02 App is up to date.
+2026-01-16 04:34:15 Checking for update using Github
+2026-01-16 04:34:15 Success.
+2026-01-16 04:34:15 Latest version is 1.11.4
+2026-01-16 04:34:15 App is up to date.
+2026-01-16 05:38:42 Checking for update using Github
+2026-01-16 05:38:43 Success.
+2026-01-16 05:38:43 Latest version is 1.11.4
+2026-01-16 05:38:43 App is up to date.
+2026-01-16 06:43:45 Checking for update using Github
+2026-01-16 06:43:45 Success.
+2026-01-16 06:43:45 Latest version is 1.11.4
+2026-01-16 06:43:45 App is up to date.
+2026-01-16 08:04:37 Checking for update using Github
+2026-01-16 08:04:38 Success.
+2026-01-16 08:04:38 Latest version is 1.11.4
+2026-01-16 08:04:38 App is up to date.
+2026-01-16 09:18:01 Checking for update using Github
+2026-01-16 09:18:01 Success.
+2026-01-16 09:18:01 Latest version is 1.11.4
+2026-01-16 09:18:01 App is up to date.
+2026-01-16 10:41:27 Checking for update using Github
+2026-01-16 10:41:28 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-16 10:41:28 Checking for update using obsidian.md
+2026-01-16 10:41:28 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-16 11:55:32 Checking for update using Github
+2026-01-16 11:55:32 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-16 11:55:32 Checking for update using obsidian.md
+2026-01-16 11:55:33 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-16 12:56:34 Checking for update using Github
+2026-01-16 12:56:34 Success.
+2026-01-16 12:56:34 Latest version is 1.11.4
+2026-01-16 12:56:34 App is up to date.
+2026-01-16 13:59:10 Checking for update using Github
+2026-01-16 13:59:11 Success.
+2026-01-16 13:59:11 Latest version is 1.11.4
+2026-01-16 13:59:11 App is up to date.
+2026-01-16 15:00:42 Checking for update using Github
+2026-01-16 15:00:42 Success.
+2026-01-16 15:00:42 Latest version is 1.11.4
+2026-01-16 15:00:42 App is up to date.
+2026-01-16 16:04:26 Checking for update using Github
+2026-01-16 16:04:26 Success.
+2026-01-16 16:04:26 Latest version is 1.11.4
+2026-01-16 16:04:26 App is up to date.
+2026-01-16 17:08:06 Checking for update using Github
+2026-01-16 17:08:06 Success.
+2026-01-16 17:08:06 Latest version is 1.11.4
+2026-01-16 17:08:06 App is up to date.
+2026-01-16 18:09:01 Checking for update using Github
+2026-01-16 18:09:02 Success.
+2026-01-16 18:09:02 Latest version is 1.11.4
+2026-01-16 18:09:02 App is up to date.
+2026-01-16 19:10:00 Checking for update using Github
+2026-01-16 19:10:00 Success.
+2026-01-16 19:10:00 Latest version is 1.11.4
+2026-01-16 19:10:00 App is up to date.
+2026-01-16 20:11:06 Checking for update using Github
+2026-01-16 20:11:06 Success.
+2026-01-16 20:11:06 Latest version is 1.11.4
+2026-01-16 20:11:06 App is up to date.
+2026-01-16 21:11:59 Checking for update using Github
+2026-01-16 21:11:59 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-16 21:11:59 Checking for update using obsidian.md
+2026-01-16 21:12:01 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-16 22:13:01 Checking for update using Github
+2026-01-16 22:13:01 Success.
+2026-01-16 22:13:01 Latest version is 1.11.4
+2026-01-16 22:13:01 App is up to date.
+2026-01-16 23:14:04 Checking for update using Github
+2026-01-16 23:14:04 Success.
+2026-01-16 23:14:04 Latest version is 1.11.4
+2026-01-16 23:14:04 App is up to date.
+2026-01-17 00:15:01 Checking for update using Github
+2026-01-17 00:15:01 Success.
+2026-01-17 00:15:01 Latest version is 1.11.4
+2026-01-17 00:15:01 App is up to date.
+2026-01-17 01:16:02 Checking for update using Github
+2026-01-17 01:16:03 Success.
+2026-01-17 01:16:03 Latest version is 1.11.4
+2026-01-17 01:16:03 App is up to date.
+2026-01-17 02:17:02 Checking for update using Github
+2026-01-17 02:17:02 Success.
+2026-01-17 02:17:02 Latest version is 1.11.4
+2026-01-17 02:17:02 App is up to date.
+2026-01-17 03:18:00 Checking for update using Github
+2026-01-17 03:18:01 Success.
+2026-01-17 03:18:01 Latest version is 1.11.4
+2026-01-17 03:18:01 App is up to date.
+2026-01-17 04:31:03 Checking for update using Github
+2026-01-17 04:31:03 Success.
+2026-01-17 04:31:03 Latest version is 1.11.4
+2026-01-17 04:31:03 App is up to date.
+2026-01-17 05:35:37 Checking for update using Github
+2026-01-17 05:35:37 Success.
+2026-01-17 05:35:37 Latest version is 1.11.4
+2026-01-17 05:35:37 App is up to date.
+2026-01-17 06:39:33 Checking for update using Github
+2026-01-17 06:39:33 Success.
+2026-01-17 06:39:33 Latest version is 1.11.4
+2026-01-17 06:39:33 App is up to date.
+2026-01-17 07:44:01 Checking for update using Github
+2026-01-17 07:44:01 Success.
+2026-01-17 07:44:01 Latest version is 1.11.4
+2026-01-17 07:44:01 App is up to date.
+2026-01-17 09:01:01 Checking for update using Github
+2026-01-17 09:01:01 Success.
+2026-01-17 09:01:01 Latest version is 1.11.4
+2026-01-17 09:01:01 App is up to date.
+2026-01-17 10:13:08 Checking for update using Github
+2026-01-17 10:13:08 Success.
+2026-01-17 10:13:08 Latest version is 1.11.4
+2026-01-17 10:13:08 App is up to date.
+2026-01-17 11:19:46 Checking for update using Github
+2026-01-17 11:19:47 Success.
+2026-01-17 11:19:47 Latest version is 1.11.4
+2026-01-17 11:19:47 App is up to date.
+2026-01-17 12:32:37 Checking for update using Github
+2026-01-17 12:32:37 Success.
+2026-01-17 12:32:37 Latest version is 1.11.4
+2026-01-17 12:32:37 App is up to date.
+2026-01-17 13:36:44 Checking for update using Github
+2026-01-17 13:36:44 Success.
+2026-01-17 13:36:44 Latest version is 1.11.4
+2026-01-17 13:36:44 App is up to date.
+2026-01-17 14:38:31 Checking for update using Github
+2026-01-17 14:55:38 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-17 14:55:38 Checking for update using obsidian.md
+2026-01-17 14:55:40 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-17 15:55:12 Checking for update using Github
+2026-01-17 15:55:12 Success.
+2026-01-17 15:55:12 Latest version is 1.11.4
+2026-01-17 15:55:12 App is up to date.
+2026-01-17 16:56:13 Checking for update using Github
+2026-01-17 16:56:14 Success.
+2026-01-17 16:56:14 Latest version is 1.11.4
+2026-01-17 16:56:14 App is up to date.
+2026-01-17 18:01:59 Checking for update using Github
+2026-01-17 18:01:59 Success.
+2026-01-17 18:01:59 Latest version is 1.11.4
+2026-01-17 18:01:59 App is up to date.
+2026-01-17 19:09:06 Checking for update using Github
+2026-01-17 19:09:06 Success.
+2026-01-17 19:09:06 Latest version is 1.11.4
+2026-01-17 19:09:06 App is up to date.
+2026-01-17 20:10:07 Checking for update using Github
+2026-01-17 20:10:07 Success.
+2026-01-17 20:10:07 Latest version is 1.11.4
+2026-01-17 20:10:07 App is up to date.
+2026-01-17 21:11:09 Checking for update using Github
+2026-01-17 21:11:09 Success.
+2026-01-17 21:11:09 Latest version is 1.11.4
+2026-01-17 21:11:09 App is up to date.
+2026-01-17 22:27:09 Checking for update using Github
+2026-01-17 22:27:09 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-17 22:27:09 Checking for update using obsidian.md
+2026-01-17 22:27:14 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-17 23:39:14 Checking for update using Github
+2026-01-17 23:39:15 Success.
+2026-01-17 23:39:15 Latest version is 1.11.4
+2026-01-17 23:39:15 App is up to date.
+2026-01-18 01:06:37 Checking for update using Github
+2026-01-18 01:06:37 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-18 01:06:37 Checking for update using obsidian.md
+2026-01-18 01:06:38 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-18 02:17:09 Checking for update using Github
+2026-01-18 02:17:09 Success.
+2026-01-18 02:17:09 Latest version is 1.11.4
+2026-01-18 02:17:09 App is up to date.
+2026-01-18 03:24:05 Checking for update using Github
+2026-01-18 03:24:05 Success.
+2026-01-18 03:24:05 Latest version is 1.11.4
+2026-01-18 03:24:05 App is up to date.
+2026-01-18 04:24:05 Checking for update using Github
+2026-01-18 04:24:05 Success.
+2026-01-18 04:24:05 Latest version is 1.11.4
+2026-01-18 04:24:05 App is up to date.
+2026-01-18 05:24:05 Checking for update using Github
+2026-01-18 05:24:05 Success.
+2026-01-18 05:24:05 Latest version is 1.11.4
+2026-01-18 05:24:05 App is up to date.
+2026-01-18 06:46:22 Checking for update using Github
+2026-01-18 06:46:22 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-18 06:46:22 Checking for update using obsidian.md
+2026-01-18 06:46:23 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-18 07:55:02 Checking for update using Github
+2026-01-18 07:55:02 Success.
+2026-01-18 07:55:02 Latest version is 1.11.4
+2026-01-18 07:55:02 App is up to date.
+2026-01-18 09:18:41 Checking for update using Github
+2026-01-18 09:18:41 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-18 09:18:41 Checking for update using obsidian.md
+2026-01-18 09:18:42 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-18 10:25:13 Checking for update using Github
+2026-01-18 10:25:13 Success.
+2026-01-18 10:25:13 Latest version is 1.11.4
+2026-01-18 10:25:13 App is up to date.
+2026-01-18 11:51:57 Checking for update using Github
+2026-01-18 11:51:57 Success.
+2026-01-18 11:51:57 Latest version is 1.11.4
+2026-01-18 11:51:57 App is up to date.
+2026-01-18 12:51:57 Checking for update using Github
+2026-01-18 12:51:57 Success.
+2026-01-18 12:51:57 Latest version is 1.11.4
+2026-01-18 12:51:57 App is up to date.
+2026-01-18 13:51:57 Checking for update using Github
+2026-01-18 13:51:57 Success.
+2026-01-18 13:51:57 Latest version is 1.11.4
+2026-01-18 13:51:57 App is up to date.
+2026-01-18 14:51:57 Checking for update using Github
+2026-01-18 14:51:57 Success.
+2026-01-18 14:51:57 Latest version is 1.11.4
+2026-01-18 14:51:57 App is up to date.
+2026-01-18 16:13:30 Checking for update using Github
+2026-01-18 16:13:31 Success.
+2026-01-18 16:13:31 Latest version is 1.11.4
+2026-01-18 16:13:31 App is up to date.
+2026-01-18 17:44:59 Checking for update using Github
+2026-01-18 17:45:00 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-18 17:45:00 Checking for update using obsidian.md
+2026-01-18 17:45:01 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-18 18:49:45 Checking for update using Github
+2026-01-18 18:49:46 Success.
+2026-01-18 18:49:46 Latest version is 1.11.4
+2026-01-18 18:49:46 App is up to date.
+2026-01-18 19:51:25 Checking for update using Github
+2026-01-18 19:51:25 Success.
+2026-01-18 19:51:25 Latest version is 1.11.4
+2026-01-18 19:51:25 App is up to date.
+2026-01-18 21:05:19 Checking for update using Github
+2026-01-18 21:05:19 Success.
+2026-01-18 21:05:19 Latest version is 1.11.4
+2026-01-18 21:05:19 App is up to date.
+2026-01-18 22:16:47 Checking for update using Github
+2026-01-18 22:16:47 Success.
+2026-01-18 22:16:47 Latest version is 1.11.4
+2026-01-18 22:16:47 App is up to date.
+2026-01-18 23:34:52 Checking for update using Github
+2026-01-18 23:34:53 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-18 23:34:53 Checking for update using obsidian.md
+2026-01-18 23:34:54 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-19 00:36:10 Checking for update using Github
+2026-01-19 00:36:11 Success.
+2026-01-19 00:36:11 Latest version is 1.11.4
+2026-01-19 00:36:11 App is up to date.
+2026-01-19 01:53:17 Checking for update using Github
+2026-01-19 01:53:17 Success.
+2026-01-19 01:53:17 Latest version is 1.11.4
+2026-01-19 01:53:17 App is up to date.
+2026-01-19 03:00:06 Checking for update using Github
+2026-01-19 03:00:06 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-19 03:00:06 Checking for update using obsidian.md
+2026-01-19 03:00:07 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-19 04:22:42 Checking for update using Github
+2026-01-19 04:22:43 Success.
+2026-01-19 04:22:43 Latest version is 1.11.4
+2026-01-19 04:22:43 App is up to date.
+2026-01-19 05:37:48 Checking for update using Github
+2026-01-19 05:37:48 Success.
+2026-01-19 05:37:48 Latest version is 1.11.4
+2026-01-19 05:37:48 App is up to date.
+2026-01-19 07:00:11 Checking for update using Github
+2026-01-19 07:00:13 Success.
+2026-01-19 07:00:13 Latest version is 1.11.4
+2026-01-19 07:00:13 App is up to date.
+2026-01-19 08:08:10 Checking for update using Github
+2026-01-19 08:08:10 Success.
+2026-01-19 08:08:10 Latest version is 1.11.4
+2026-01-19 08:08:10 App is up to date.
+2026-01-19 09:32:12 Checking for update using Github
+2026-01-19 09:32:12 Success.
+2026-01-19 09:32:12 Latest version is 1.11.4
+2026-01-19 09:32:12 App is up to date.
+2026-01-19 10:54:21 Checking for update using Github
+2026-01-19 10:54:22 Success.
+2026-01-19 10:54:22 Latest version is 1.11.4
+2026-01-19 10:54:22 App is up to date.
+2026-01-19 12:03:03 Checking for update using Github
+2026-01-19 12:03:03 Success.
+2026-01-19 12:03:03 Latest version is 1.11.4
+2026-01-19 12:03:03 App is up to date.
+2026-01-19 13:04:03 Checking for update using Github
+2026-01-19 13:04:04 Success.
+2026-01-19 13:04:04 Latest version is 1.11.4
+2026-01-19 13:04:04 App is up to date.
+2026-01-19 14:15:06 Checking for update using Github
+2026-01-19 14:15:07 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-19 14:15:07 Checking for update using obsidian.md
+2026-01-19 14:15:08 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-19 15:41:30 Checking for update using Github
+2026-01-19 15:41:30 Success.
+2026-01-19 15:41:30 Latest version is 1.11.4
+2026-01-19 15:41:30 App is up to date.
+2026-01-19 16:42:54 Checking for update using Github
+2026-01-19 16:42:54 Success.
+2026-01-19 16:42:54 Latest version is 1.11.4
+2026-01-19 16:42:54 App is up to date.
+2026-01-19 17:42:54 Checking for update using Github
+2026-01-19 17:42:54 Success.
+2026-01-19 17:42:54 Latest version is 1.11.4
+2026-01-19 17:42:54 App is up to date.
+2026-01-19 19:00:52 Checking for update using Github
+2026-01-19 19:00:52 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-19 19:00:52 Checking for update using obsidian.md
+2026-01-19 19:00:52 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-19 20:05:47 Checking for update using Github
+2026-01-19 20:05:47 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-19 20:05:47 Checking for update using obsidian.md
+2026-01-19 20:05:48 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-19 21:06:33 Checking for update using Github
+2026-01-19 21:06:33 Success.
+2026-01-19 21:06:33 Latest version is 1.11.4
+2026-01-19 21:06:33 App is up to date.
+2026-01-19 22:12:07 Checking for update using Github
+2026-01-19 22:12:08 Success.
+2026-01-19 22:12:08 Latest version is 1.11.4
+2026-01-19 22:12:08 App is up to date.
+2026-01-19 23:13:06 Checking for update using Github
+2026-01-19 23:13:06 Success.
+2026-01-19 23:13:06 Latest version is 1.11.4
+2026-01-19 23:13:06 App is up to date.
+2026-01-20 00:29:25 Checking for update using Github
+2026-01-20 00:29:26 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2026-01-20 00:29:26 Checking for update using obsidian.md
+2026-01-20 00:29:27 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-01-20 01:33:06 Checking for update using Github
+2026-01-20 01:33:07 Success.
+2026-01-20 01:33:07 Latest version is 1.11.4
+2026-01-20 01:33:07 App is up to date.
+2026-01-20 02:50:48 Checking for update using Github
+2026-01-20 02:50:49 Success.
+2026-01-20 02:50:49 Latest version is 1.11.4
+2026-01-20 02:50:49 App is up to date.
+2026-01-20 03:55:45 Checking for update using Github
+2026-01-20 03:55:45 Success.
+2026-01-20 03:55:45 Latest version is 1.11.4
+2026-01-20 03:55:45 App is up to date.
+2026-01-20 05:08:25 Checking for update using Github
+2026-01-20 05:08:25 Success.
+2026-01-20 05:08:25 Latest version is 1.11.4
+2026-01-20 05:08:25 App is up to date.
+2026-01-20 06:17:59 Checking for update using Github
+2026-01-20 06:17:59 Success.
+2026-01-20 06:17:59 Latest version is 1.11.4
+2026-01-20 06:17:59 App is up to date.
+2026-01-20 07:45:13 Checking for update using Github
+2026-01-20 07:45:13 Success.
+2026-01-20 07:45:13 Latest version is 1.11.4
+2026-01-20 07:45:13 App is up to date.
+2026-01-20 08:46:49 Checking for update using Github
+2026-01-20 08:46:49 Success.
+2026-01-20 08:46:49 Latest version is 1.11.4
+2026-01-20 08:46:49 App is up to date.
+2026-01-20 09:51:31 Checking for update using Github
+2026-01-20 09:51:31 Success.
+2026-01-20 09:51:31 Latest version is 1.11.4
+2026-01-20 09:51:31 App is up to date.
+2026-01-20 11:02:00 Checking for update using Github
+2026-01-20 11:02:00 Success.
+2026-01-20 11:02:00 Latest version is 1.11.4
+2026-01-20 11:02:00 App is up to date.
+2026-01-20 12:03:01 Checking for update using Github
+2026-01-20 12:03:02 Success.
+2026-01-20 12:03:02 Latest version is 1.11.4
+2026-01-20 12:03:02 App is up to date.
+2026-01-20 13:04:02 Checking for update using Github
+2026-01-20 13:04:02 Success.
+2026-01-20 13:04:02 Latest version is 1.11.4
+2026-01-20 13:04:02 App is up to date.
+2026-01-20 14:05:01 Checking for update using Github
+2026-01-20 14:05:01 Success.
+2026-01-20 14:05:01 Latest version is 1.11.4
+2026-01-20 14:05:01 App is up to date.
+2026-01-20 15:05:20 Checking for update using Github
+2026-01-20 15:05:21 Success.
+2026-01-20 15:05:21 Latest version is 1.11.4
+2026-01-20 15:05:21 App is up to date.
+2026-01-20 16:06:22 Checking for update using Github
+2026-01-20 16:06:22 Success.
+2026-01-20 16:06:22 Latest version is 1.11.4
+2026-01-20 16:06:22 App is up to date.
+2026-01-20 17:07:22 Checking for update using Github
+2026-01-20 17:07:22 Success.
+2026-01-20 17:07:22 Latest version is 1.11.4
+2026-01-20 17:07:22 App is up to date.
+2026-01-20 18:08:22 Checking for update using Github
+2026-01-20 18:08:22 Success.
+2026-01-20 18:08:22 Latest version is 1.11.4
+2026-01-20 18:08:22 App is up to date.
+2026-01-20 19:09:19 Checking for update using Github
+2026-01-20 19:09:20 Success.
+2026-01-20 19:09:20 Latest version is 1.11.5
+2026-01-20 19:09:20 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.5/obsidian-1.11.5.asar.gz
+2026-01-20 19:09:22 Verifying hash & signature. Size= 8771203
+2026-01-20 19:09:22 Saving file
+2026-01-20 19:09:22 Update complete.
+2026-01-21 12:10:20 Checking for update using Github
+2026-01-21 12:10:20 Success.
+2026-01-21 12:10:20 Latest version is 1.11.5
+2026-01-21 12:10:20 An update is already downloaded.
+2026-01-23 06:55:40 Checking for update using Github
+2026-01-23 06:55:40 Success.
+2026-01-23 06:55:40 Latest version is 1.11.5
+2026-01-23 06:55:40 An update is already downloaded.
+2026-01-24 18:49:09 Checking for update using Github
+2026-01-24 18:49:09 Success.
+2026-01-24 18:49:09 Latest version is 1.11.5
+2026-01-24 18:49:09 An update is already downloaded.
+2026-01-25 10:30:07 Checking for update using Github
+2026-01-25 10:30:07 Success.
+2026-01-25 10:30:07 Latest version is 1.11.5
+2026-01-25 10:30:07 An update is already downloaded.
+2026-01-25 15:53:23 Checking for update using Github
+2026-01-25 15:53:24 Success.
+2026-01-25 15:53:24 Latest version is 1.11.5
+2026-01-25 15:53:24 An update is already downloaded.
+2026-01-26 19:10:09 Checking for update using Github
+2026-01-26 19:10:09 Success.
+2026-01-26 19:10:09 Latest version is 1.11.5
+2026-01-26 19:10:09 An update is already downloaded.
+2026-01-27 19:01:27 Checking for update using Github
+2026-01-27 19:01:27 Success.
+2026-01-27 19:01:27 Latest version is 1.11.5
+2026-01-27 19:01:27 An update is already downloaded.
+2026-01-28 10:08:38 Checking for update using Github
+2026-01-28 10:08:38 Success.
+2026-01-28 10:08:38 Latest version is 1.11.5
+2026-01-28 10:08:38 An update is already downloaded.
+2026-01-30 15:43:37 Checking for update using Github
+2026-01-30 15:43:37 Success.
+2026-01-30 15:43:37 Latest version is 1.11.5
+2026-01-30 15:43:37 An update is already downloaded.
+2026-02-01 18:09:04 Checking for update using Github
+2026-02-01 18:09:05 Success.
+2026-02-01 18:09:05 Latest version is 1.11.5
+2026-02-01 18:09:05 An update is already downloaded.
+2026-02-04 08:45:12 Checking for update using Github
+2026-02-04 08:45:12 Success.
+2026-02-04 08:45:12 Latest version is 1.11.5
+2026-02-04 08:45:12 An update is already downloaded.
+2026-02-08 14:05:02 Checking for update using Github
+2026-02-08 14:05:02 Success.
+2026-02-08 14:05:02 Latest version is 1.11.7
+2026-02-08 14:05:02 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.11.7/obsidian-1.11.7.asar.gz
+2026-02-08 14:05:04 Verifying hash & signature. Size= 8773752
+2026-02-08 14:05:04 Saving file
+2026-02-08 14:05:04 Update complete.
+2026-03-28 16:16:22 Checking for update using Github
+2026-03-28 16:16:25 Success.
+2026-03-28 16:16:25 Latest version is 1.12.7
+2026-03-28 16:16:25 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.asar.gz
+2026-03-28 16:16:29 Verifying hash & signature. Size= 8323080
+2026-03-28 16:16:29 Saving file
+2026-03-28 16:16:29 Update complete.
+2026-03-28 17:39:55 Checking for update using Github
+2026-03-28 17:39:55 Success.
+2026-03-28 17:39:55 Latest version is 1.12.7
+2026-03-28 17:39:55 An update is already downloaded.
+2026-03-28 19:10:43 Checking for update using Github
+2026-03-28 19:10:44 Success.
+2026-03-28 19:10:44 Latest version is 1.12.7
+2026-03-28 19:10:44 An update is already downloaded.
+2026-03-29 01:50:28 Checking for update using Github
+2026-03-29 01:50:28 Success.
+2026-03-29 01:50:28 Latest version is 1.12.7
+2026-03-29 01:50:28 An update is already downloaded.
+2026-03-29 02:50:28 Checking for update using Github
+2026-03-29 02:50:28 Success.
+2026-03-29 02:50:28 Latest version is 1.12.7
+2026-03-29 02:50:28 An update is already downloaded.
+2026-03-30 02:34:11 Checking for update using Github
+2026-03-30 02:34:11 Success.
+2026-03-30 02:34:11 Latest version is 1.12.7
+2026-03-30 02:34:11 An update is already downloaded.
+2026-03-30 19:10:58 Checking for update using Github
+2026-03-30 19:10:59 Success.
+2026-03-30 19:10:59 Latest version is 1.12.7
+2026-03-30 19:10:59 An update is already downloaded.
+2026-03-31 20:26:18 Checking for update using Github
+2026-03-31 20:26:19 Success.
+2026-03-31 20:26:19 Latest version is 1.12.7
+2026-03-31 20:26:19 An update is already downloaded.
+2026-04-01 01:31:08 Checking for update using Github
+2026-04-01 01:31:09 Success.
+2026-04-01 01:31:09 Latest version is 1.12.7
+2026-04-01 01:31:09 An update is already downloaded.
+2026-04-01 14:24:58 Checking for update using Github
+2026-04-01 14:24:58 Success.
+2026-04-01 14:24:58 Latest version is 1.12.7
+2026-04-01 14:24:58 An update is already downloaded.
+2026-04-01 16:24:19 Checking for update using Github
+2026-04-01 16:24:19 Success.
+2026-04-01 16:24:19 Latest version is 1.12.7
+2026-04-01 16:24:19 An update is already downloaded.
+2026-04-01 19:40:57 Checking for update using Github
+2026-04-01 19:40:58 Success.
+2026-04-01 19:40:58 Latest version is 1.12.7
+2026-04-01 19:40:58 An update is already downloaded.
+2026-04-02 17:25:50 Checking for update using Github
+2026-04-02 17:25:50 Success.
+2026-04-02 17:25:50 Latest version is 1.12.7
+2026-04-02 17:25:50 An update is already downloaded.
+2026-04-02 18:33:29 Checking for update using Github
+2026-04-02 18:33:29 Success.
+2026-04-02 18:33:29 Latest version is 1.12.7
+2026-04-02 18:33:29 An update is already downloaded.
+2026-04-07 01:37:40 Checking for update using Github
+2026-04-07 01:37:40 Success.
+2026-04-07 01:37:40 Latest version is 1.12.7
+2026-04-07 01:37:40 An update is already downloaded.
+2026-04-07 02:37:40 Checking for update using Github
+2026-04-07 02:37:40 Success.
+2026-04-07 02:37:40 Latest version is 1.12.7
+2026-04-07 02:37:40 An update is already downloaded.
+2026-04-07 03:37:40 Checking for update using Github
+2026-04-07 03:37:40 Success.
+2026-04-07 03:37:40 Latest version is 1.12.7
+2026-04-07 03:37:40 An update is already downloaded.
